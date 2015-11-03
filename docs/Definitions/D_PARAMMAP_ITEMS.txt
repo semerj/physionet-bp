@@ -1,0 +1,14 @@
+CATEGORY,DESCRIPTION
+"SUBJECT_ID_TO_PID","Mapping between SUBJECT_ID and old PIDs:
+                              
+                              The SUBJECT_ID is given by the column PARAM1_NUM
+                              and the PID is given by the column PARAM2_STR.
+                              
+                              The column ORDER tells you which PID was recorded
+                              before other for the same SUBJECT_ID
+                              "
+"SUBJECT_ID_TO_CASE_ID","Mapping between the clinical SUBJECT_ID and waveform CASE_ID :
+  
+                              The SUBJECT_ID is given by the column PARAM1_NUM
+                              and the CASE_ID is given by the column PARAM2_STR.
+                              "

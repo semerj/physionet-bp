@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ipython
+.ipynb_checkpoints
+
+# Vagrant
+.vagrant
+
+*.pdf
+data/00/*
