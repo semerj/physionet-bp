@@ -64,3 +64,4 @@ target/
 
 *.pdf
 data/00/*
+software/*
